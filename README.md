@@ -1,4 +1,4 @@
-Create scraper using Scrapy Selectors
+Create a web scraper using Splinter Selectors
 ============================================
 
 [![Build
