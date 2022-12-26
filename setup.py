@@ -10,7 +10,7 @@ except ImportError:
 readme = open('README.md').read()
 
 requirements = [
-    'wheel==0.23.0',
+    'wheel==0.38.1',
     'redis==2.8.0',
     'requests==1.2.3',
     'splinter'
